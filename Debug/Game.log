@@ -1,0 +1,34 @@
+﻿  backgroundModel.cpp
+  cameraclass.cpp
+  cinecameraclass.cpp
+  collisions.cpp
+  colorshaderclass.cpp
+  d3dclass.cpp
+  enemy.cpp
+  enemyGiant.cpp
+  enemyMan.cpp
+  FontItem.cpp
+  gamemodel.cpp
+  graphicsclass.cpp
+  Heart.cpp
+  inputclass.cpp
+  Item.cpp
+  Key.cpp
+  main.cpp
+  modelclass.cpp
+  player.cpp
+  progress.cpp
+  Generating Code...
+  Compiling...
+  quadModel.cpp
+  quadTexturedModel.cpp
+  SoundClass.cpp
+  Sprite.cpp
+  startModel.cpp
+  systemclass.cpp
+  textureclass.cpp
+  textureshaderclass.cpp
+  Weapon.cpp
+  XYZaxis.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\Jordon\Downloads\LinkRunsTheGauntlet\GameProject\Debug\Game.exe
