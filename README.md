@@ -22,4 +22,4 @@ D = Throw bomb |
 Esc = Quit Game
 
 # Notice
-Full project found on LinkedIn profile: https://www.linkedin.com/in/jordon-lyn-03614a114/
+Full project will be delivered on request.
